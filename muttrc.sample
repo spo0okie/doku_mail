@@ -1,0 +1,7 @@
+set from = "wiki@domain.local"
+set realname = "Отчет по Wiki"
+set use_from=yes
+set envelope_from = yes
+set smtp_url = "smtp://wiki@mail.domain.local:587"
+set smtp_pass = "password"
+set ssl_starttls = yes
