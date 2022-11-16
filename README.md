@@ -1,2 +1,7 @@
 # doku_mail
-Mailing changes from dokuwiki
+Отправка изменений в DokuWiki за период
+
+  * Заполняем файл settings.php (смотри пример)
+  * Заполняем файл muttrc (смотри пример)
+  * Если нужно правим интерпретатор в send.php
+  * Выполняем send.php (ставим в крон)
